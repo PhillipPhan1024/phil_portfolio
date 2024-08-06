@@ -107,7 +107,7 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "Css3",
       fontAwesomeClassname: "fab fa-css3-alt"
-    },
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
