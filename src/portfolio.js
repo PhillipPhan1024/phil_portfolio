@@ -215,13 +215,14 @@ const bigProjects = {
       ]
     },
     {
-      image: "",
+      image: require("./assets/images/SylLink.png"),
       projectName: "SylLink",
       projectDesc:
         "A web application that helps students extract information from syllabi and straight into their calendar.",
       footerLink: [
         {
-          name: "APP LAUNCHING SOON"
+          name: "Visit Website",
+          url: "https://syllink.vercel.app/"
         }
       ]
     }
