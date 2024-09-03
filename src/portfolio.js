@@ -227,7 +227,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/SylLink.png"),
+      image: require("./assets/images/UT cart system log.png"),
       projectName: "UT Cart System",
       projectDesc:
         "A web application that helps UT dormitories organize the status of carts to make move-in/out a smoother process.",
