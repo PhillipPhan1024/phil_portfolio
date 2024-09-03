@@ -225,6 +225,18 @@ const bigProjects = {
           url: "https://syllink.vercel.app/"
         }
       ]
+    },
+    {
+      image: require("./assets/images/SylLink.png"),
+      projectName: "UT Cart System",
+      projectDesc:
+        "A web application that helps UT dormitories organize the status of carts to make move-in/out a smoother process.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://cart-system-78aee37459bd.herokuapp.com/carts"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
